@@ -1,6 +1,9 @@
 Grasshopper Bunny Shortest Path (Example)
 ---
 
+In this activity, you'll tackle a fun and challenging problem using Computer Science algorithms. The Traveling Salesman Problem (TSP) is a classic problem, where the goal is to find the most efficient route that visits a set of locations exactly once and returns to the starting point.
+
+In this Easter-themed version of the problem, you are an Easter Bunny traveling between various locations to deliver Easter eggs to different parts of the forest animals. Your task is to figure out the shortest path that allows the bunny to visit every location (each with its own basket of eggs) and return home to the Easter Bunny's den.
 
 
 # Content
