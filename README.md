@@ -23,3 +23,9 @@ This problem is part of a larger set of problems wich have a resolution using gr
 
 > [!TIP]
 > To find more about the intial development of Graph problems you can look at [The Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg),
+
+# Stack
+
+Grasshopper is the key component that integrates everything, enabling us to combine multiple separate coding elements into a cohesive system. The repository includes two distinct solutions: one featuring a code input optimization and the other utilizing Anemone.
+
+For beginners, I recommend starting with the Anemone definition, as it simplifies understanding loops and state management. Once you’re comfortable with that, you can begin exploring the C# definition for more advanced functionality.
